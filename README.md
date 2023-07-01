@@ -1,1 +1,1 @@
-# Mini_Project-Color_Flipper
+# Mini Project - Color Flipper
